@@ -22,4 +22,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+[PE.Ex2 (2).pdf](https://github.com/user-attachments/files/26043479/PE.Ex2.2.pdf)
+
+
+
 RESULT:
